@@ -50,4 +50,4 @@ func main() {
 
 // Note: I went through groom document. I find that groom is just a model struct, which includes fields ID, CreatedAt, UpdatedAt, DeletedAt and we can change permission like read only,rw,etc
 // I normally get the idea of groom and tried to create and update.I find comfortable to create records and batch record selected but (creating from sql expression :Is it necessary ?,if yes i will go through it.)
-// IN updates i tried to update single column updates will try tomorrow more.so my question is should i follow creating from sql expression too.
+// IN updates i tried to update single column updates will try more.so my question is should i follow creating from sql expression too.
